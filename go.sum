@@ -1,0 +1,8 @@
+golang.org/x/crypto v0.2.0 h1:BRXPfhNivWL5Yq0BGQ39a2sW6t44aODpfxkWjYdzewE=
+golang.org/x/crypto v0.2.0/go.mod h1:hebNnKkNXi2UzZN1eVRvBB7co0a+JxK6XbPiWVs/3J4=
+golang.org/x/sys v0.2.0 h1:ljd4t30dBnAvMZaQCevtY0xLLD0A+bRZXbgLMLU1F/A=
+golang.org/x/sys v0.2.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+pault.ag/go/sshsig v0.0.0-20221114195117-8ace39892a5d h1:Ds0iSEOkNPuCays1keJJVjXqg+mD6pFNsITWEORiqls=
+pault.ag/go/sshsig v0.0.0-20221114195117-8ace39892a5d/go.mod h1:SKeyiYinm0JehwSECGojCWfecDe4oxn4w+Ib08LjsOU=
+pault.ag/go/sshsig v0.0.0-20221115002918-0e3bf96a9d66 h1:XQkp5iN062mI+FRuCFxPNL+zfi4KzozK7YA15bkmPKM=
+pault.ag/go/sshsig v0.0.0-20221115002918-0e3bf96a9d66/go.mod h1:SKeyiYinm0JehwSECGojCWfecDe4oxn4w+Ib08LjsOU=
